@@ -2,7 +2,7 @@ import React from 'react'
 import styles from '../style'
 // import { logo } from '../assets'
 import { footerLinks, socialMedia } from '../constants'
-import lOGO from '../assets/logo.png' 
+import lOGO from '../assets/lOGO.png' 
 const Footer = () => {
   return (
     <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
