@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { close, logo, menu } from '../assets'
-import lOGO from '../assets/logo.png' 
+import lOGO from '../assets/lOGO.png' 
 import { navLinks } from '../constants'
 
 const Navbar = () => {
