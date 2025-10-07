@@ -11,7 +11,9 @@ const Testimonials = () => {
         <h2 className={styles.heading2}>What people are <br className='sm:block hidden'/>saying about us</h2>
         <div className='w-full md:mt-0 mt-6'>
           <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-            Everything you need to accept card payments and grow your business anywhere on the planet.
+            Our clients trust us to deliver innovative IT and AI solutions that drive real results. 
+            From automation and analytics to enterprise transformation, we empower businesses 
+            to lead confidently in the digital age.
           </p>  
         </div>
       </div>

@@ -7,12 +7,12 @@ const CardDeal = () => {
   return (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a better card deal <br className='sm:block hidden'/>in few easy steps.</h2>
+        <h2 className={styles.heading2}>Transform your business<br className='sm:block hidden'/>with AI-powered IT solutions.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Arcu tortor,
-          purus in mattis at sed integer faucibus.
-          Aliquet quis aliquet eget mauris tortor.ç 
-          Aliquet ultrices ac, ametau.
+           Harness the power of Artificial Intelligence to optimize operations, 
+          predict market trends, and enhance customer experiences. Our experts 
+          design intelligent systems that help businesses innovate, scale, and 
+          stay ahead in the digital era.
         </p>
         <Button styles='mt-10'/>
       </div>

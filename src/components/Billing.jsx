@@ -15,11 +15,12 @@ const Billing = () => {
         <div className='absolute z-[0] -left-1/2 bottom-0 w-[50%] h-[50%] rounded-full pink__gradient'/>
       </div>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Easily control your <br className='sm:block hidden'/> billing & invoicing.</h2>
+        <h2 className={styles.heading2}>Manage your data <br className='sm:block hidden'/>  with intelligent insights.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Elit enim sed massa etiam.
-          Mauris eu adipiscing ultrices ametodio aenean neque.
-          Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+          Our AI-powered dashboards help you visualize key performance metrics, 
+          automate data analysis, and make informed decisions in real time. 
+          Simplify operations, monitor infrastructure, and enhance productivity 
+          — all through intelligent technology.
         </p>
         <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
           <img

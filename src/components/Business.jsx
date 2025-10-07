@@ -27,12 +27,12 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the business, <br className='sm:block hidden'/>we'll handle the money.</h2>
+        <h2 className={styles.heading2}>You focus on growth, <br className='sm:block hidden'/>we’ll handle the technology.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, 
-          you can improve your financial life by building credit,
-          earning rewards and saving money.
-          But with hundreds of credit cards on the market.
+          As a core IT company specializing in Artificial Intelligence, we help businesses
+          streamline operations, automate workflows, and make data-driven decisions. 
+          From intelligent software systems to advanced cloud and AI integrations — 
+          we provide the technology foundation your business needs to lead in the digital world.
         </p>
         <Button styles='mt-10'/>
       </div>
