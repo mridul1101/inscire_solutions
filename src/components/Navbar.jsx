@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className='w-full flex py-6 justify-between items-center navbar'>
-      <img src={lOGO} alt='Inscire' className='w-[124px]'/>
+      <img src={lOGO} alt='Inscire' className='w-[250px]'/>
       <ul className='list-none sm:flex hidden justify-end items-center flex-1'>
         {navLinks.map((nav, i) => (
           <li 
