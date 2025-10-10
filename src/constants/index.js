@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "AI-Driven Insights",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Unlock hidden business opportunities with advanced data analytics, machine learning, and predictive modeling.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Secure IT Infrastructure",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We build scalable, secure, and high-performance IT systems to keep your business operations safe and efficient.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Automation & Cloud Solutions",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Optimize workflows with intelligent automation, and scale faster with robust cloud-based platforms.",
   },
 ];
 
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Projects Delivered",
+    value: "10+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Global Clients",
+    value: "5+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "AI Models Deployed",
+    value: "100+",
   },
 ];
 
@@ -170,21 +170,21 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-  {
-    id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
-  },
-  {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
+  // {
+  //   id: "social-media-1",
+  //   icon: instagram,
+  //   link: "https://www.instagram.com/",
+  // },
+  // {
+  //   id: "social-media-2",
+  //   icon: facebook,
+  //   link: "https://www.facebook.com/",
+  // },
+  // {
+  //   id: "social-media-3",
+  //   icon: twitter,
+  //   link: "https://www.twitter.com/",
+  // },
   {
     id: "social-media-4",
     icon: linkedin,
